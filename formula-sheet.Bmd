@@ -1,0 +1,91 @@
+MATH 4 FINAL EXAM FORMULAS
+UNIT CIRCLE KEY VALUES
+0° = 0 rad → sin=0, cos=1, tan=0
+30° = π/6 → sin=1/2, cos=√3/2, tan=√3/3
+45° = π/4 → sin=√2/2, cos=√2/2, tan=1
+60° = π/3 → sin=√3/2, cos=1/2, tan=√3
+90° = π/2 → sin=1, cos=0, tan=undefined
+
+120° = 2π/3 → sin=√3/2, cos=-1/2, tan=-√3
+135° = 3π/4 → sin=√2/2, cos=-√2/2, tan=-1
+150° = 5π/6 → sin=1/2, cos=-√3/2, tan=-√3/3
+180° = π → sin=0, cos=-1, tan=0
+270° = 3π/2 → sin=-1, cos=0, tan=undefined
+
+FUNDAMENTAL IDENTITIES
+Pythagorean:
+
+sin²θ + cos²θ = 1
+1 + tan²θ = sec²θ
+1 + cot²θ = csc²θ
+Reciprocal:
+
+csc θ = 1/sin θ
+sec θ = 1/cos θ
+cot θ = 1/tan θ
+SUM/DIFFERENCE FORMULAS
+sin(A ± B) = sin A cos B ± cos A sin B
+cos(A ± B) = cos A cos B ∓ sin A sin B
+tan(A ± B) = (tan A ± tan B)/(1 ∓ tan A tan B)
+DOUBLE ANGLE FORMULAS
+sin(2θ) = 2sin θ cos θ
+cos(2θ) = cos²θ - sin²θ = 2cos²θ - 1 = 1 - 2sin²θ
+tan(2θ) = 2tan θ/(1 - tan²θ)
+TRIANGLE LAWS
+Law of Sines: sin A/a = sin B/b = sin C/c
+Use for: AAS, ASA, SSA
+
+Law of Cosines: c² = a² + b² - 2ab cos C
+Use for: SAS, SSS
+
+Area: Area = (1/2)ab sin C
+
+TRIG GRAPHS
+y = A sin(Bx + C) + D
+
+Amplitude = |A|
+Period = 2π/|B|
+Phase Shift = -C/B
+Vertical Shift = D
+POLYNOMIAL END BEHAVIOR
+Even degree + positive leading coeff: ↗↗
+Even degree + negative leading coeff: ↘↘
+Odd degree + positive leading coeff: ↘↗
+Odd degree + negative leading coeff: ↗↘
+RATIONAL FUNCTION ASYMPTOTES
+Vertical: denominator = 0 (not canceled) Horizontal:
+
+deg(num) < deg(den): y = 0
+deg(num) = deg(den): y = ratio of leading coeffs
+deg(num) > deg(den): no horizontal asymptote
+LOGARITHM PROPERTIES
+log_b(xy) = log_b(x) + log_b(y)
+log_b(x/y) = log_b(x) - log_b(y)
+log_b(x^n) = n·log_b(x)
+log_b(1) = 0, log_b(b) = 1
+QUADRATIC FORMULA
+x = (-b ± √(b² - 4ac))/2a
+
+Discriminant = b² - 4ac:
+
+0: two real roots
+
+= 0: one real root
+< 0: two complex roots
+CONVERSIONS
+Degrees to radians: × π/180
+Radians to degrees: × 180/π
+Arc length: s = rθ
+SPECIAL VALUES
+√2 ≈ 1.414
+√3 ≈ 1.732
+π ≈ 3.14159
+e ≈ 2.718
+EXAM TIPS
+Draw diagrams for triangle problems
+Check domain restrictions
+Show all work
+Use exact values when possible
+Verify solutions
+GOOD LUCK!
+
